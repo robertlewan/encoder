@@ -10,8 +10,8 @@ Example: Hello to Olleh
 Symbol: Turn letters to symbol with similar looks.
 Example: $i to s!
 
-##messageMixer.js
+## messageMixer.js
 Let the user choose from 3 different encoders. If the encoder is caesar, another input is needed for number of positions being offset.
 
-##superEncoder.js
+## superEncoder.js
 Encrypt and decrypt your secret message with combinations of encoders. Hint: you can use it to create your super password no one can guess.
